@@ -42,13 +42,13 @@ Chemical-Kinetics-Python
 │   ├── listing08.py
 │   └── listing09.py
 ├── Documents
-│   └── book.pdf
+│   └── book.pdf (Teaching material prepared for students)
 ├── LICENSE
 └── README.md
 ```
 
 - **Chapter1, Chapter2, Chapter3**: Contain Python scripts illustrating key concepts and examples for each chapter of the teaching material.
-- **Documents**: Contains additional documentation or compiled references, e.g., a `book.pdf`.
+- **Documents**: Contains additional documentation or compiled references, including `book.pdf`, which serves as the primary teaching material.
 - **LICENSE**: License information for this repository.
 - **README.md**: The file you are currently reading.
 
