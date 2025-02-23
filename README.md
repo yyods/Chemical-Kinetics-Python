@@ -19,14 +19,27 @@ The repository is organized into separate folders corresponding to the chapters 
 ```
 📆 Chemical-Kinetics-Python
  ├📂 Chapter1
- ┃ ├📝 overview_python.py
- ┃ ├📝 introduction_sympy.py
- ┃ ├📝 chemical_kinetics_review.py
- ┃ ├📝 jupyter_notebook_basics.py
- ┃ └📝 sympy_functions_tutorial.py
+ ┃ ├📝 listing01.py
  ├📂 Chapter2
+ ┃ ├📝 listing01.py
+ ┃ ├📝 listing02.py
+ ┃ ├📝 listing03.py
+ ┃ ├📝 listing04.py
+ ┃ ├📝 listing05.py
+ ┃ ├📝 listing06.py
+ ┃ ├📝 listing07.py
+ ┃ ├📝 listing08.py
+ ┃ ├📝 listing09.py
+ ┃ ├📝 listing10.py
  ├📂 Chapter3
- ├...
+ ┃ ├📝 listing01.py
+ ┃ ├📝 listing02.py
+ ┃ ├📝 listing03.py
+ ┃ ├📝 listing04.py
+ ┃ ├📝 listing05.py
+ ┃ ├📝 listing06.py
+ ┃ ├📝 listing07.py
+ ├📝 LICENSE
  └📝 README.md
 ```
 
@@ -93,5 +106,3 @@ print(solution)
 This repository is for educational purposes. Feel free to use, modify, and contribute to improve learning.
 
 ---
-
-Happy coding! 🚀
